@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Raul Magno</h1>
+<h1 align="center">Olá, sou Raul Magno</h1>
 <h3 align="center">Sou apaixonado por desenvolvimento web, física e matemática.</h3>
 
 - 🌱 Atualmente estou estudando **React JS**
