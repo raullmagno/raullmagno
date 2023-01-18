@@ -9,13 +9,8 @@
 
 <h3> Dev </h3>
 <p>
-  Com os diplomas em mãos, o lógico seria seguir uma carreira no magistério ou acadêmica, entretanto, atuando no magistério como professor de matemática e física não me via sendo desafiado intelectualmente o suficiente a fim de utilizar minha grande capacidade cognitiva, e a carreira tecnológica já se tornara a essa altura um caminho natural. Foii em maio de 2022, quando decidi dar grande passo na vida e arriscar entrar na carreira de desenvolvedor web na <i><b>Trybe</b></i>, durante esses periodo tive contato com <i>fundamentos de programação web</i><i><b>(JavaScript, HTML, CSS, Git e Bash)</b></i>, em seguida comecei a desenvolver aplicações em projetos utilizando <i><b>React</b></i> com suas ferramentas mais atuais utilizadas no mercado como <i><b>Redux</b></i> e <i><b>Hooks</b></i>.
+  Com os diplomas em mãos, o lógico seria seguir uma carreira no magistério ou acadêmica, entretanto, atuando no magistério como professor de matemática e física não me via sendo desafiado intelectualmente o suficiente a fim de utilizar minha grande capacidade cognitiva, e a carreira tecnológica já se tornara a essa altura um caminho natural. Foi em maio de 2022, quando decidi dar um grande passo na vida e arriscar adentrar na jornada para me tornar desenvolvedor web com o curso completo <i><b>full stack</b></i> da <i><b>Trybe</b></i>. Durante esse periodo tive contato com <i>fundamentos de programação web</i> <i><b>(JavaScript, HTML, CSS, Git e Bash)</b></i>, em seguida comecei a desenvolver aplicações em projetos utilizando <i><b>React</b></i> com suas ferramentas mais atuais utilizadas no mercado como <i><b>Redux</b></i> e <i><b>Hooks</b></i>.
 </p>
-- 🌱 Atualmente estou estudando **React JS**
-
-- 💬 Ask me about **JavaScript, React e Python**
-
-- 📫 Onde me encontrar **raulmagno23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
