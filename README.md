@@ -9,7 +9,7 @@
 
 <h3> Dev </h3>
 <p>
-  Com os diplomas na mão, o lógico seria seguir uma carreira no magistério ou acadêmica, entretanto, não me via sendo desafiado o suficiente e a carreira tecnológica era um caminho natural para mim aquela altura, foi quando em maio de 2022, decidi dar grande passo e arriscar entrar na carreira de desenvolvedor web na Trybe, durante esses periodo tive contato com fundamento da programação web <i><b>(JavaScript, HTML, CSS, Git e Bash)</b></i>, em seguida comecei a desenvolver aplicações em <i><b>React</b></i> com as ferramentas mais atuais utilizadas no mercado como <i><b>Redux</b></i> e <i><b>Hooks</b></i>.
+  Com os diplomas em mãos, o lógico seria seguir uma carreira no magistério ou acadêmica, entretanto, atuando no magistério como professor de matemática e física não me via sendo desafiado intelectualmente o suficiente a fim de utilizar minha grande capacidade cognitiva, e a carreira tecnológica já se tornara a essa altura um caminho natural. Foii em maio de 2022, quando decidi dar grande passo na vida e arriscar entrar na carreira de desenvolvedor web na <i><b>Trybe</b></i>, durante esses periodo tive contato com <i>fundamentos de programação web</i><i><b>(JavaScript, HTML, CSS, Git e Bash)</b></i>, em seguida comecei a desenvolver aplicações em projetos utilizando <i><b>React</b></i> com suas ferramentas mais atuais utilizadas no mercado como <i><b>Redux</b></i> e <i><b>Hooks</b></i>.
 </p>
 - 🌱 Atualmente estou estudando **React JS**
 
