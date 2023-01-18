@@ -4,7 +4,7 @@
 <h3> Meu bacharelado em Física </h3>
 <p>
   Nascido na cidade de Manaus no Amazonas, decidi cursar bacharelado em física na Universidade Federal do Amazonas ter excelente desempenho em matemática durante o ensino médio, e então decidi entendê-la um pouco mais e seus desdobramentos quando aplicados a física, para finalmente ter o exclarecimento em áreas tais como, Mecânica Quântica, Relatividade Geral de Einstein, Buracos Negros e Teoria das Cordas. Durante esse processo extremamente desafiador, me descobri um excelente solucionador de problemas complexos não importanto o grau de dificuldade das disciplinas (Física avançada, Algebra, Análise, Topologia, Geometria Riemanniana), inclusive ajudando sempre meus colegas a dar o próximo passo em busca de seus objetivos.
- Durante essa trajetória tive contato com a programação de computadores aplicado na resoluções de problemas que seriam impossíveis de serem resolvidos analiticamente mas não numericamente, foi quando tive contato com as liguagens **C**, <br>Fortran </br> e <br>Python </br>
+ Durante essa trajetória tive contato com a programação de computadores aplicado na resoluções de problemas que seriam impossíveis de serem resolvidos analiticamente mas não numericamente, foi quando tive contato com as liguagens <strong>C++</strong>, <strong>Fortran </strong> e <strong>Python </strong>.
 </p>
 - 🌱 Atualmente estou estudando **React JS**
 
