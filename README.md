@@ -5,7 +5,7 @@
 
 <h3> Apresentação </h3>
 <p>
-  Nascido na cidade de Manaus, AM, Brasil, sempre fui extremamente observador e interessado por descobrir o funcionamento das coisas em geral, desde um mero radinho a pilhas, até um foguete da <i>NASA</i>. Me interessei muito cedo por ciências e músicas, com o tempo percebi que as ciências possibilitava a tecnologia e a tecnologia, a evolução do homem e tudo que o cerca. Minhas capacidades analíticas me levaram a estudar programação de computadores devido a livros de Isaac Asimov e ao estudo da filosofia para tentar entender meu papel no mundo enquanto ser humano, o conjunto dessas coisas formam minhas características e quem sou.
+  Nascido na cidade de Manaus, AM, Brasil, sempre fui extremamente observador e interessado por descobrir o funcionamento das coisas em geral, desde um mero radinho a pilhas, até um foguete da <i>NASA</i>. Me interessei muito cedo por ciências e músicas, com o tempo percebi que as ciências possibilitavam as tecnologias e as tecnologias, a evolução do homem e tudo que o cerca. Minhas capacidades analíticas me levaram a estudar programação de computadores devido a livros de Isaac Asimov e ao estudo da filosofia para tentar entender meu papel no mundo enquanto ser humano, o conjunto dessas coisas formam minhas características e quem sou.
 </p>
 <h3> Meu bacharelado em Física </h3>
 <p>
